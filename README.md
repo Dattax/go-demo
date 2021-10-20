@@ -1,9 +1,10 @@
 # Welcome to Devops for go Developers
 
-## Files in this repo include:
+## Files in this repo used in the demo include:
 
 * goApp
 * goApp.zip
+* demoApp.zip
 * containerd.zip
 * goalert.zip
 
