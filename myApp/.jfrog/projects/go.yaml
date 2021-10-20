@@ -1,0 +1,8 @@
+version: 1
+type: go
+resolver:
+  repo: demo-go
+  serverId: dattademo21
+deployer:
+  repo: demo-go-local
+  serverId: dattademo21
